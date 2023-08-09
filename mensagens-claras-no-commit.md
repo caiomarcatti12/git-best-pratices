@@ -4,33 +4,33 @@ As mensagens de commit representam a documentação em tempo real do progresso d
 
 ### Importância das Mensagens de Commit:
 
-- Histórico Legível
+- **Histórico Legível:**
 Ao revisar a história de um projeto, é vital que as mensagens de commit forneçam um contexto claro sobre o que, por que e como mudanças foram feitas.
 
-- Facilitar a Revisão
+- **Facilitar a Revisão:**
 Durante revisões de código, as mensagens de commit ajudam os revisores a entender as intenções do autor, facilitando feedbacks construtivos e precisos.
 
-- Documentação Instantânea
+- **Documentação Instantânea:**
 Em muitos casos, antes de consultar a documentação oficial ou a Wiki do projeto, os desenvolvedores procuram commits relacionados para entender as mudanças ou resolver bugs.
 
-- Facilita a Rastreabilidade
+- **Facilita a Rastreabilidade:**
 Em situações onde um bug é identificado, mensagens de commit claras ajudam a rastrear quando e por que uma determinada mudança foi feita, auxiliando na resolução do problema.
 
 ### Características de uma Boa Mensagem de Commit:
 
-- Concisa e Informativa
+- **Concisa e Informativa:**
 A primeira linha do commit deve ser um resumo conciso (geralmente até 50 caracteres) do que foi feito. Detalhes adicionais podem ser fornecidos após uma linha em branco.
 
-- Uso do Imperativo
+- **Uso do Imperativo:**
 Escreva suas mensagens no modo imperativo, como "Adiciona", "Corrige", "Refatora", em vez de "Adicionado", "Corrigido" ou "Refatorado".
 
-- Fornecer Contexto
+- **Fornecer Contexto:**
 Quando aplicável, explique por que a mudança é necessária. Por exemplo: "Corrige bug onde o carrinho de compras não atualizava corretamente".
 
-- Evitar Ambiguidade
+- **Evitar Ambiguidade:**
 Evite mensagens genéricas como "Correções" ou "Atualizações". Seja específico sobre o que foi alterado.
 
-- Referência a Recursos Externos
+- **Referência a Recursos Externos:**
 Se a mudança estiver relacionada a uma discussão externa, como um ticket de bug ou um pedido de recurso, referencie esse recurso na mensagem.
 
 Ao seguir estas diretrizes, você não apenas melhora a clareza e a utilidade de suas mensagens de commit, mas também promove uma cultura de colaboração e transparência dentro de sua equipe.
